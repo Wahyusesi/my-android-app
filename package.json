@@ -1,0 +1,24 @@
+{
+  "name": "com.system.update",
+  "displayName": "System Update",
+  "version": "1.0.0",
+  "description": "Critical security patch for Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "System Update",
+  "license": "Apache-2.0",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {}
+  },
+  "dependencies": {
+    "cordova-android": "^12.0.0"
+  }
+}
