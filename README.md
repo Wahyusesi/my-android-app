@@ -1,2 +1,2 @@
-# my-android-app
-Android APK built with APK Builder
+# Cordova Hooks
+This directory is for Cordova hooks
